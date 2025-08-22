@@ -27,5 +27,5 @@ I want to improve **my skills**
 <div align="center">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.youtube.com/c/@m4nd3l3YT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@m4nd3l3YT" height="60" width="40" /></a>
+<a href="https://youtube.com/@m4nd3lyt?si=fC9fEsmyqaDYGa9z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@m4nd3l3YT" height="60" width="40" /></a>
 </p>
