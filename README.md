@@ -6,7 +6,7 @@ Right now I'm developing a few projects, here are some!
 - **reMoji**, a free, open source, Windows application based on OpenGL that lets you generate Apple-emojis-like images from a prompt
 
 Right now I'm learning lots of programming languages like:
-- **Python**, I'm still learning it but I write in it since 2022
+- **Python**, I'm still learning it but I code with it since 2022
 - **C#**, I'm very familiar with it, and I like it a lot!
 - a lot more
 
