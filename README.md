@@ -2,8 +2,8 @@
 
 Right now I'm developing a few projects, here are some!
 
-- **Tasky**, a free and open source Android application that lets you remember things when you want
-- **reMoji**, a free, open source, Windows application based on OpenGL that lets you generate Apple-emojis-like images from a prompt
+- **MoreMC**, an open source Minecraft Mod that adds a lot of new features to the game
+- **Cozy Farms**, a 2D sandbox game with Stardew-Valley vibes made with Unity. 
 
 Right now I'm learning lots of programming languages like:
 - **Python**, I'm still learning it but I code with it since 2022
