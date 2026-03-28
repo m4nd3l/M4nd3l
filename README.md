@@ -1,31 +1,61 @@
-# 💫 About Me:
-Hi there! I'm M4nd3l 👋<br><br><br>Game Developer | Open Source Contributor | Lifelong Learner<br><br><br>  I’m a 14-year-old developer passionate about creating immersive experiences and building tools for the community. Currently focusing on game design and software architecture.<br><br><br>  <a href="https://m4nd3l.netlify.app">🌍 Portfolio</a> •<br>  <a href="mailto:mandel123e@gmail.com">📧 Email</a> •<br>  <a href="https://www.instagram.com/m4nd3l3/">📸 Instagram</a><br><br>---<br><br>### 🚀 What I'm working on<br>* **[MoreMC](https://github.com/m4nd3l/MoreMC)** - An open-source Minecraft Mod designed to expand the vanilla experience with new mechanics and features.<br>* **[Versy](https://github.com/m4nd3l/VersyCompiler)** - A simple but powerful compiled language, based in C#.<br>* **[RogazionistiRE](https://github.com/m4nd3l/RogazionistiRE)** - An app that talks to an API to see my grades, homework, detentions and more.<br><br>### 🛠 Tech Stack & Tools<br>* **TOP Languages:** Python (advanced, since 2022), C# (advanced), Java (my favorite).<br>* **Game Dev:** Unity Engine, C#.<br>* **Other:** Git, Open Source contribution, Game Design.<br><br><br>---<br><br>### 🤝 Connect with me<br><p align="left"><br><a href="https://youtube.com/@m4nd3lyt" target="blank"><br>  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="M4nd3l YT" height="30" width="40" /><br></a><br><a href="https://www.instagram.com/m4nd3l3/" target="blank"><br>  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m4nd3l3" height="30" width="40" /><br></a><br></p><br><br>> **Fun Fact:** I started coding when I was 10. I'm always looking for new challenges to improve my skills!<br>
+<h1 align="center">Hi there! I'm M4nd3l 👋</h1>
 
+<p align="center">
+  <strong>Game Developer | Open Source Contributor | Lifelong Learner</strong><br>
+  I’m a 14-year-old developer passionate about creating immersive experiences and building tools for the community.<br>
+  Currently focusing on <b>Game Design</b> and <b>Software Architecture</b>.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m4nd3l3) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/M4nd3l) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Due-Opportunity962) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@m4nd3lYT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mandel123e) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=m4nd3l&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=m4nd3l&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m4nd3l&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=m4nd3l&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=m4nd3l&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://m4nd3l.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
+  
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=m4nd3l&icon=0&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/m4nd3l) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paytomandel123e) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/M4nd3l) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/m4nd3l) 
+### 🚀 Featured Projects
+* 🛠 **[MoreMC](https://github.com/m4nd3l/MoreMC)** - Open-source Minecraft Mod expanding the vanilla experience.
+* 💻 **[Versy](https://github.com/m4nd3l/VersyCompiler)** - A custom compiled language built with C#.
+* 🏫 **[RogazionistiRE](https://github.com/m4nd3l/RogazionistiRE)** - A mobile utility app for school management via API.
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 💻 Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) |
+| **Game Dev** | ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) ![OpenGL](https://img.shields.io/badge/-OpenGL-FFFFFF?logo=opengl&logoColor=black) ![Itch.io](https://img.shields.io/badge/-Itch.io-FF0B34?logo=itch.io&logoColor=white) |
+| **Design** | ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white) ![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?logo=adobe-after-effects&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?logo=aseprite&logoColor=white) |
+| **Backend/Tools** | ![.Net](https://img.shields.io/badge/-.NET-5C2D91?logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m4nd3l&theme=cobalt&show_icons=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4nd3l&theme=cobalt&layout=compact" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=m4nd3l&theme=cobalt" width="100%" />
+</p>
+
+---
+
+### 🤝 Support & Connect
+<p align="left">
+  <a href="mailto:mandel123e@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/m4nd3l3/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/@m4nd3lYT"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+</p>
+
+> **Fun Fact:** I started coding at 10 years old. I'm always looking for new challenges! 🚀
+
+   ## 💰 You can help me by Donating
+
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/m4nd3l) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paytomandel123e) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/M4nd3l) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/m4nd3l)  
+
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=m4nd3l&icon=0&color=1" />
+</p>
