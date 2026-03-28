@@ -32,7 +32,7 @@
 ---
 
 ### 📊 GitHub Activity
-[GitHub Streak](https://streak-stats.demolab.com?user=m4nd3l&theme=shadow-blue&date_format=j%20M%5B%20Y%5D&mode=weekly)
+[![GitHub Streak](https://streak-stats.demolab.com?user=m4nd3l&theme=shadow-blue&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
