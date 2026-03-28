@@ -17,11 +17,11 @@
 ---
 
 ### 🚀 What I'm working on
-* **[MoreMC](https://github.com/tuo-username/moremc)** - An open-source Minecraft Mod designed to expand the vanilla experience with new mechanics and features.
-* **Cozy Farms** - A cozy 2D sandbox game built in **Unity**, inspired by the relaxing vibes of Stardew Valley.
+* **[MoreMC](https://github.com/m4nd3l/MoreMC)** - An open-source Minecraft Mod designed to expand the vanilla experience with new mechanics and features.
+* **[Versy](https://github.com/m4nd3l/VersyCompiler)** - A simple but powerful programming language, based in C#.
 
 ### 🛠 Tech Stack & Tools
-* **Languages:** Python (since 2022), C# (Advanced), Java (for Minecraft mods).
+* **TOP Languages:** Python (advanced, since 2022), C# (advanced), Java (my favorite).
 * **Game Dev:** Unity Engine, C#.
 * **Other:** Git, Open Source contribution, Game Design.
 
