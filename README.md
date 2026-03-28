@@ -28,8 +28,8 @@
 
 ### 📊 My Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4nd3l&show_icons=true&theme=tokyonight" alt="M4nd3l's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4nd3l&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M4nd3l&show_icons=true&theme=tokyonight" alt="M4nd3l's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4nd3l&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
 ---
