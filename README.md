@@ -32,14 +32,7 @@
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4nd3l&theme=cobalt&show_icons=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4nd3l&theme=cobalt&layout=compact" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=m4nd3l&theme=cobalt" width="100%" />
-</p>
+[GitHub Streak](https://streak-stats.demolab.com?user=m4nd3l&theme=shadow-blue&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
 ---
 
