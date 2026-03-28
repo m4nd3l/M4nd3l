@@ -26,6 +26,8 @@
 * **Game Dev:** Unity Engine, C#.
 * **Other:** Git, Open Source contribution, Game Design.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4nd3l)]
+
 ### 📊 My Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=M4nd3l&show_icons=true&theme=tokyonight" alt="M4nd3l's GitHub Stats" height="150" />
