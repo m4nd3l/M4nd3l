@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Game Developer | Open Source Contributor | Lifelong Learner</strong><br>
-  I’m a 14-year-old developer passionate about creating immersive experiences and building tools for the community.<br>
+  I’m a 15-year-old developer passionate about creating immersive experiences and building tools for the community.<br>
   Currently focusing on <b>Game Design</b> and <b>Software Architecture</b>.
 </p>
 
